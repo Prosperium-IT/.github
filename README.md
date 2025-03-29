@@ -1,11 +1,4 @@
- ___                                                              
-(  _`\                                        _                   
-| |_) ) _ __   _     ___  _ _      __   _ __ (_) _   _   ___ ___  
-| ,__/'( '__)/'_`\ /',__)( '_`\  /'__`\( '__)| |( ) ( )/' _ ` _ `\
-| |    | |  ( (_) )\__, \| (_) )(  ___/| |   | || (_) || ( ) ( ) |
-(_)    (_)  `\___/'(____/| ,__/'`\____)(_)   (_)`\___/'(_) (_) (_)
-                         | |                                      
-                         (_)                                      
+<img src="https://prosperium.net.br/site/wp-content/uploads/2024/06/logo.png" alt="logo prosperium">
 
 # **Prosperium**
 
@@ -27,14 +20,6 @@ A **Prosperium** é uma plataforma exclusiva, **100% baseada em nuvem**, projeta
 🤖 **Automação de Processos**: Reduza tarefas **repetitivas** e **minimize retrabalho**.
 
 🎓 **Facilidade de Uso**: Mesmo sem experiência, qualquer pessoa pode **administrar o financeiro com eficácia**.
-
----
-
-## 🔑 **Como Acessar**
-
-1️⃣ **Acesse a plataforma via navegador.**
-2️⃣ **Faça login com suas credenciais.**
-3️⃣ **Gerencie suas atividades financeiras de forma prática e segura.**
 
 ---
 
